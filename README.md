@@ -1,2 +1,2 @@
 # Easy-Tweets
-Generate quotes for your twitter contant
+Generate quotes for your twitter content
